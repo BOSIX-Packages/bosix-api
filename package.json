@@ -1,0 +1,21 @@
+{
+  "name": "@bosix-packages/api",
+  "version": "0.1.0",
+  "license": "LGPL-3.0-or-later",
+  "description": "",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "update": "npm-check-updates -u"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BOSIX/bosix-api.git"
+  },
+  "devDependencies": {
+    "typescript": "5.9.2",
+    "npm-check-updates": "18.0.3"
+  },
+  "type": "module"
+}
